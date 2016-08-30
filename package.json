@@ -1,0 +1,27 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Intoduction to webscraping",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joevdwalt/webscraping.git"
+  },
+  "keywords": [
+    "node",
+    "webscraping"
+  ],
+  "author": "Joevdwalt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joevdwalt/webscraping/issues"
+  },
+  "homepage": "https://github.com/Joevdwalt/webscraping#readme",
+  "dependencies": {
+    "webdriverio": "^4.2.8",
+    "yargs": "^5.0.0"
+  }
+}
