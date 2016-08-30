@@ -20,7 +20,7 @@ else {
         desiredCapabilities: {
             browserName: 'firefox'
         },
-        port: port,
+        port: argv.port,
         logOutput: '/var/log/fk/iqtags.crawler/'
     }
 }
